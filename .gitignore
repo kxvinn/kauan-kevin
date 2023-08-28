@@ -33,3 +33,8 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#ignoring windows, mac and linux folders
+windows
+mac
+linux
